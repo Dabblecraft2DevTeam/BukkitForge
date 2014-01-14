@@ -12,3 +12,4 @@ BlockBreak
 .*.swp
 .*.swo
 
+.gradle
